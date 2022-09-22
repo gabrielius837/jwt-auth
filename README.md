@@ -1,0 +1,2 @@
+# JWT Auth example
+This repository showcases how JWT authentication with refresh tokens could be used in asp.net core application or a standalone authentication service. Take note, that for production user information must be persisted in a more safer and reliable manner.
